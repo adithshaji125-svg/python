@@ -87,8 +87,8 @@
 
 
 #15.check if a string start with vowel
-# s = input("Enter a string: ")
-# if s[0] in "aeiou":
+# a=input("Enter a string: ")
+# if a[0] in "aeiou":
 #     print("Start with a vowel")
 # else:
 #     print("Not start with a vowel")
